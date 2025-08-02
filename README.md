@@ -8,7 +8,8 @@ This repository contains the final projects completed during my specializations 
 - **Machine Learning (ML): Bankruptcy Risk Prediction**  
   Model that estimates a company’s probability of bankruptcy based on financial ratios over time.
 
-- **Deep Learning (DL):** Advanced neural-network models applied to real-world problems (e.g., computer vision and NLP tasks).
+- **Deep Learning (DL): Sentiment Analysis with a Custom Transformer & Inference API**  
+  End-to-end sentiment classification using a hand-crafted Transformer (tokenization, positional encodings, multi-head self-attention, and feed-forward layers), plus a REST API to serve the model for inference.
 
 ## Objective
 The goal of this repository is to showcase the skills acquired during the specializations and to share knowledge with the community.
